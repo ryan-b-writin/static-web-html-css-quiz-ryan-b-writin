@@ -6,19 +6,20 @@
   display: block;
   max-width: 30%;
   float: left;
+  margin: 1%;
 }
 
 .card div {
   display: block;
 }
 
-.card p, h4, h6 {
+.card h3, h4, h6 {
   /*line-height: 1px;*/
   /*padding: 6px;*/
  /* padding-top: 1px;*/
   padding-bottom: 1px;
   text-align: left;
-  margin: 12px;
+  margin: 8px;
 }
 
 /*descripton----------------*/
@@ -27,6 +28,7 @@
 }
 
 .desc {
+  margin: 12px;
   text-align: justify;
 }
 
