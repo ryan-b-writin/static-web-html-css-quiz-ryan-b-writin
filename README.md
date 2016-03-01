@@ -1,6 +1,6 @@
 ### HTML / CSS quiz! 
 
->This repo contains m work on the HTML/CSS quiz.
+>This repo contains my work on the HTML/CSS quiz.
 
 ## Instructions
 
