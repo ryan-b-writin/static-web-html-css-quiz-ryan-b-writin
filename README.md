@@ -1,6 +1,10 @@
-### HTML / CSS quiz! 
+# HTML / CSS quiz! 
 
 >This repo contains my work on the HTML/CSS quiz.
+
+## How to use:
+
+>Simply load the page, and compare, if you wish, what you see to the requirements below.
 
 ## Instructions
 
