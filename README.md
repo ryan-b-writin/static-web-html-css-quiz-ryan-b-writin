@@ -4,7 +4,7 @@
 
 ## How to use:
 
->Simply load the page, and compare, if you wish, what you see to the requirements below.
+>Simply load the page, and compare- if you wish- what you see to the requirements below.
 
 ## Instructions
 
