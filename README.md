@@ -3,8 +3,8 @@
 >This repo contains my work on the HTML/CSS quiz.
 
 ## How to use:
-
->Simply load the page, and compare- if you wish- to the requirements below.
+View this page at: 
+http://www.midnightthunder.net/exercises/htmlcss/index.html
 
 ## Instructions
 
