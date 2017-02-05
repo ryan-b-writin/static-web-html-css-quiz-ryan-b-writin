@@ -1,8 +1,4 @@
 # HTML / CSS quiz! 
-
->This repo contains my work on the HTML/CSS quiz.
-
-## How to use:
 View this page at: 
 http://www.midnightthunder.net/exercises/htmlcss/index.html
 
